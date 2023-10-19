@@ -1,5 +1,286 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "c2NTe8AY3Q8",
+            "name": "Lonely Woman [c2NTe8AY3Q8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Lonely Woman [c2NTe8AY3Q8].mp4",
+            "size": 19.207285,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Lonely Woman [c2NTe8AY3Q8].mp4?raw=true"
+        },
+        {
+            "id": "wJsxqq-goTg",
+            "name": "Joaquín Rodrigo  - Concierto serenata for harp and orchestra (1952) [wJsxqq-goTg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Joaquín Rodrigo  - Concierto serenata for harp and orchestra (1952) [wJsxqq-goTg].mp4",
+            "size": 26.846156999999998,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Joaquín Rodrigo  - Concierto serenata for harp and orchestra (1952) [wJsxqq-goTg].mp4?raw=true"
+        },
+        {
+            "id": "cuwPyspG5Wg",
+            "name": "Peter von Winter - Octet for winds and strings (1813) [cuwPyspG5Wg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Peter von Winter - Octet for winds and strings (1813) [cuwPyspG5Wg].mp4",
+            "size": 60.619861,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Peter von Winter - Octet for winds and strings (1813) [cuwPyspG5Wg].mp4?raw=true"
+        },
+        {
+            "id": "W77vwPasDz0",
+            "name": "Genesis - Justice (Slowed Down) [W77vwPasDz0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Genesis - Justice (Slowed Down) [W77vwPasDz0].mp4",
+            "size": 39.62367,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Genesis - Justice (Slowed Down) [W77vwPasDz0].mp4?raw=true"
+        },
+        {
+            "id": "vSQ6L1-LIbI",
+            "name": "Liszt： Anfangs wollt' ich fast verzagen S.311 [vSQ6L1-LIbI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Liszt： Anfangs wollt' ich fast verzagen S.311 [vSQ6L1-LIbI].mp4",
+            "size": 4.033675,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Liszt： Anfangs wollt' ich fast verzagen S.311 [vSQ6L1-LIbI].mp4?raw=true"
+        },
+        {
+            "id": "MOvUENRCJg4",
+            "name": "Asger Baden - Simtom (Official Visualizer) #AsgerBaden #NeueMeister #modernclassicalmusic [MOvUENRCJg4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Asger Baden - Simtom (Official Visualizer) #AsgerBaden #NeueMeister #modernclassicalmusic [MOvUENRCJg4].mp4",
+            "size": 48.402941,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Asger Baden - Simtom (Official Visualizer) #AsgerBaden #NeueMeister #modernclassicalmusic [MOvUENRCJg4].mp4?raw=true"
+        },
+        {
+            "id": "f1GS0V4TrOk",
+            "name": "Liszt： Via Crucis - Station XIV： Jesus wird ins Grab gelegt [f1GS0V4TrOk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Liszt： Via Crucis - Station XIV： Jesus wird ins Grab gelegt [f1GS0V4TrOk].mp4",
+            "size": 13.461279,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Liszt： Via Crucis - Station XIV： Jesus wird ins Grab gelegt [f1GS0V4TrOk].mp4?raw=true"
+        },
+        {
+            "id": "A1omCxv2dY8",
+            "name": "U 4 Life [A1omCxv2dY8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/U 4 Life [A1omCxv2dY8].mp4",
+            "size": 13.778424999999999,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/U 4 Life [A1omCxv2dY8].mp4?raw=true"
+        },
+        {
+            "id": "fejuMhlRPdg",
+            "name": "Telepatia (Tu Chutando Lata) [fejuMhlRPdg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Telepatia (Tu Chutando Lata) [fejuMhlRPdg].mp4",
+            "size": 7.027978,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Telepatia (Tu Chutando Lata) [fejuMhlRPdg].mp4?raw=true"
+        },
+        {
+            "id": "2gZBUllg_tk",
+            "name": "Paganini： Sonata a preghiera M.S.23 - In F Minor per violino IV corda e chitarra - transcrip.... [2gZBUllg_tk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Paganini： Sonata a preghiera M.S.23 - In F Minor per violino IV corda e chitarra - transcrip.... [2gZBUllg_tk].mp4",
+            "size": 0.811643,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Paganini： Sonata a preghiera M.S.23 - In F Minor per violino IV corda e chitarra - transcrip.... [2gZBUllg_tk].mp4?raw=true"
+        },
+        {
+            "id": "EQwNb7qz2hw",
+            "name": "Paganini： 24 Caprices for Violin, Op. 1, MS. 25 - No. 10 in G Minor [EQwNb7qz2hw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Paganini： 24 Caprices for Violin, Op. 1, MS. 25 - No. 10 in G Minor [EQwNb7qz2hw].mp4",
+            "size": 3.275031,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Paganini： 24 Caprices for Violin, Op. 1, MS. 25 - No. 10 in G Minor [EQwNb7qz2hw].mp4?raw=true"
+        },
+        {
+            "id": "vexQMwnLDIA",
+            "name": "I Found My Yellow Basket [vexQMwnLDIA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/I Found My Yellow Basket [vexQMwnLDIA].mp4",
+            "size": 5.6997789999999995,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/I Found My Yellow Basket [vexQMwnLDIA].mp4?raw=true"
+        },
+        {
+            "id": "1XDnKdtUqCw",
+            "name": "Alfred Cortot plays Children's Corner of Debussy (full color) 1936 [1XDnKdtUqCw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Alfred Cortot plays Children's Corner of Debussy (full color) 1936 [1XDnKdtUqCw].mp4",
+            "size": 32.011843,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Alfred Cortot plays Children's Corner of Debussy (full color) 1936 [1XDnKdtUqCw].mp4?raw=true"
+        },
+        {
+            "id": "CMnzfnTZ32w",
+            "name": "OMD - Souvenir (1981) vinyl [CMnzfnTZ32w].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/OMD - Souvenir (1981) vinyl [CMnzfnTZ32w].mp4",
+            "size": 27.489172,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/OMD - Souvenir (1981) vinyl [CMnzfnTZ32w].mp4?raw=true"
+        },
+        {
+            "id": "YNmIIGnKrwM",
+            "name": "Maurice Ravel - La Valse, M.72 (1920) [YNmIIGnKrwM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Maurice Ravel - La Valse, M.72 (1920) [YNmIIGnKrwM].mp4",
+            "size": 48.967233,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Maurice Ravel - La Valse, M.72 (1920) [YNmIIGnKrwM].mp4?raw=true"
+        },
+        {
+            "id": "ORpc2FD8fak",
+            "name": "They All Laughed (Mono Mix) [ORpc2FD8fak].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/They All Laughed (Mono Mix) [ORpc2FD8fak].mp4",
+            "size": 10.549828,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/They All Laughed (Mono Mix) [ORpc2FD8fak].mp4?raw=true"
+        },
+        {
+            "id": "0AvuweztG4Q",
+            "name": "Morrissey - Suedehead [0AvuweztG4Q].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Morrissey - Suedehead [0AvuweztG4Q].mp4",
+            "size": 11.128183,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Morrissey - Suedehead [0AvuweztG4Q].mp4?raw=true"
+        },
+        {
+            "id": "hFINm3HTu20",
+            "name": "Bint Al-Balad [hFINm3HTu20].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Bint Al-Balad [hFINm3HTu20].mp4",
+            "size": 11.847674,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Bint Al-Balad [hFINm3HTu20].mp4?raw=true"
+        },
+        {
+            "id": "vEe35OsffEQ",
+            "name": "Massenet： Piano Concerto in E-flat Major - 1902 (Dosse) [vEe35OsffEQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Massenet： Piano Concerto in E-flat Major - 1902 (Dosse) [vEe35OsffEQ].mp4",
+            "size": 88.28546999999999,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Massenet： Piano Concerto in E-flat Major - 1902 (Dosse) [vEe35OsffEQ].mp4?raw=true"
+        },
+        {
+            "id": "4GMBQ3KPTlA",
+            "name": "Ronda de los Guaracheros [4GMBQ3KPTlA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Ronda de los Guaracheros [4GMBQ3KPTlA].mp4",
+            "size": 6.062139999999999,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Ronda de los Guaracheros [4GMBQ3KPTlA].mp4?raw=true"
+        },
+        {
+            "id": "47w_plUKSZo",
+            "name": "Édouard Lalo - Symphony in G minor (1886) [47w_plUKSZo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Édouard Lalo - Symphony in G minor (1886) [47w_plUKSZo].mp4",
+            "size": 49.136637,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Édouard Lalo - Symphony in G minor (1886) [47w_plUKSZo].mp4?raw=true"
+        },
+        {
+            "id": "yJ1hx88nz9M",
+            "name": "Fela Kuti - Teacher Don't Teach Me Nonsense [yJ1hx88nz9M].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Fela Kuti - Teacher Don't Teach Me Nonsense [yJ1hx88nz9M].mp4",
+            "size": 28.948904,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Fela Kuti - Teacher Don't Teach Me Nonsense [yJ1hx88nz9M].mp4?raw=true"
+        },
+        {
+            "id": "WQy7XsODHX0",
+            "name": "Prélude à l'après-midi d'un faune, L. 87b (Version for 2 Pianos) (Live) [WQy7XsODHX0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Prélude à l'après-midi d'un faune, L. 87b (Version for 2 Pianos) (Live) [WQy7XsODHX0].mp4",
+            "size": 17.917120999999998,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Prélude à l'après-midi d'un faune, L. 87b (Version for 2 Pianos) (Live) [WQy7XsODHX0].mp4?raw=true"
+        },
+        {
+            "id": "C7ceXwRnIDA",
+            "name": "Bidin' My Time #2 [C7ceXwRnIDA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Bidin' My Time #2 [C7ceXwRnIDA].mp4",
+            "size": 7.095285,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Bidin' My Time #2 [C7ceXwRnIDA].mp4?raw=true"
+        },
+        {
+            "id": "L5HnIu0j4z8",
+            "name": "Edvard Grieg -  En la gruta del rey de la montaña [L5HnIu0j4z8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Edvard Grieg -  En la gruta del rey de la montaña [L5HnIu0j4z8].mp4",
+            "size": 8.020451999999999,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Edvard Grieg -  En la gruta del rey de la montaña [L5HnIu0j4z8].mp4?raw=true"
+        },
+        {
+            "id": "UBS4Gi1y_nc",
+            "name": "Aphex Twin - Windowlicker (official video) 1080p HD [UBS4Gi1y_nc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Aphex Twin - Windowlicker (official video) 1080p HD [UBS4Gi1y_nc].mp4",
+            "size": 37.21631,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Aphex Twin - Windowlicker (official video) 1080p HD [UBS4Gi1y_nc].mp4?raw=true"
+        },
+        {
+            "id": "8vQO6GfGqV8",
+            "name": "Liszt： Missa Choralis (S.10) - Sanctus [8vQO6GfGqV8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Liszt： Missa Choralis (S.10) - Sanctus [8vQO6GfGqV8].mp4",
+            "size": 6.5567899999999995,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Liszt： Missa Choralis (S.10) - Sanctus [8vQO6GfGqV8].mp4?raw=true"
+        },
+        {
+            "id": "0vOCHpRq0h4",
+            "name": "★★★ Sandra - Into A Secret Land (Cassette) (Side A) ★★★ Pioneer CT-737 [0vOCHpRq0h4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/★★★ Sandra - Into A Secret Land (Cassette) (Side A) ★★★ Pioneer CT-737 [0vOCHpRq0h4].mp4",
+            "size": 74.417047,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/★★★ Sandra - Into A Secret Land (Cassette) (Side A) ★★★ Pioneer CT-737 [0vOCHpRq0h4].mp4?raw=true"
+        },
+        {
+            "id": "rThRRa9gayc",
+            "name": "Mompou plays Mompou： Variations on a Theme of Chopin [rThRRa9gayc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Mompou plays Mompou： Variations on a Theme of Chopin [rThRRa9gayc].mp4",
+            "size": 38.515706,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Mompou plays Mompou： Variations on a Theme of Chopin [rThRRa9gayc].mp4?raw=true"
+        },
+        {
+            "id": "Iyxu2Rf46xI",
+            "name": "Girorgio Moroder-I Wanna Rock You [Iyxu2Rf46xI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Girorgio Moroder-I Wanna Rock You [Iyxu2Rf46xI].mp4",
+            "size": 21.630603999999998,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Girorgio Moroder-I Wanna Rock You [Iyxu2Rf46xI].mp4?raw=true"
+        },
+        {
+            "id": "_LsBeHnthKs",
+            "name": "El Que No Sabe [_LsBeHnthKs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/El Que No Sabe [_LsBeHnthKs].mp4",
+            "size": 5.585795999999999,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/El Que No Sabe [_LsBeHnthKs].mp4?raw=true"
+        },
+        {
+            "id": "VLC9oJBHxkI",
+            "name": "Jeux D'Eau [VLC9oJBHxkI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Jeux D'Eau [VLC9oJBHxkI].mp4",
+            "size": 12.690845,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Jeux D'Eau [VLC9oJBHxkI].mp4?raw=true"
+        },
+        {
+            "id": "D4aqhO_wAxo",
+            "name": "Gershwin： Of Thee I Sing - Overture [D4aqhO_wAxo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Gershwin： Of Thee I Sing - Overture [D4aqhO_wAxo].mp4",
+            "size": 12.984931,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Gershwin： Of Thee I Sing - Overture [D4aqhO_wAxo].mp4?raw=true"
+        },
+        {
+            "id": "CCJa4eiWUBk",
+            "name": "How You Keep A Dance [CCJa4eiWUBk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/How You Keep A Dance [CCJa4eiWUBk].mp4",
+            "size": 6.737038999999999,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/How You Keep A Dance [CCJa4eiWUBk].mp4?raw=true"
+        },
+        {
+            "id": "oV3jHuv0QIk",
+            "name": "Surprise! You're Dead! [oV3jHuv0QIk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Surprise! You're Dead! [oV3jHuv0QIk].mp4",
+            "size": 5.523374,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Surprise! You're Dead! [oV3jHuv0QIk].mp4?raw=true"
+        },
+        {
+            "id": "4D_P1mE8h0Y",
+            "name": "La Comparsa (🔴 live) - Frank Fernández [4D_P1mE8h0Y].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/La Comparsa (🔴 live) - Frank Fernández [4D_P1mE8h0Y].mp4",
+            "size": 77.355768,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/La Comparsa (🔴 live) - Frank Fernández [4D_P1mE8h0Y].mp4?raw=true"
+        },
+        {
+            "id": "XSTyNQdmMPQ",
+            "name": "Mozart： Le nozze di Figaro, K. 492, Act IV - Recit. Perfida! e in quella forma meco mentia？ [XSTyNQdmMPQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Mozart： Le nozze di Figaro, K. 492, Act IV - Recit. Perfida! e in quella forma meco mentia？ [XSTyNQdmMPQ].mp4",
+            "size": 1.747234,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Act IV - Recit. Perfida! e in quella forma meco mentia？ [XSTyNQdmMPQ].mp4?raw=true"
+        },
+        {
+            "id": "ZgMhG8OB6jE",
+            "name": "Liszt： 6 Etudes d'exécution transcendante d'après Paganini, S.140 - 2. Octaves [ZgMhG8OB6jE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Liszt： 6 Etudes d'exécution transcendante d'après Paganini, S.140 - 2. Octaves [ZgMhG8OB6jE].mp4",
+            "size": 9.550735,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Liszt： 6 Etudes d'exécution transcendante d'après Paganini, S.140 - 2. Octaves [ZgMhG8OB6jE].mp4?raw=true"
+        },
+        {
+            "id": "rRF5D68e44Q",
+            "name": "Al Bowlly Sings 'Melancholy Baby' (1934) ｜ British Pathé [rRF5D68e44Q].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Al Bowlly Sings 'Melancholy Baby' (1934) ｜ British Pathé [rRF5D68e44Q].mp4",
+            "size": 25.956473,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Al Bowlly Sings 'Melancholy Baby' (1934) ｜ British Pathé [rRF5D68e44Q].mp4?raw=true"
+        },
+        {
+            "id": "Tc1J7y4xIdA",
+            "name": "Echo & The Bunnymen - Nothing Lasts Forever (Official Video) [Tc1J7y4xIdA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y4/videos/Echo & The Bunnymen - Nothing Lasts Forever (Official Video) [Tc1J7y4xIdA].mp4",
+            "size": 15.559871999999999,
+            "url": "https://github.com/circuitalmynds/music_y4/blob/main/videos/Echo & The Bunnymen - Nothing Lasts Forever (Official Video) [Tc1J7y4xIdA].mp4?raw=true"
+        }
+    ],
+    "total_size": 942.2761899999998
 }
